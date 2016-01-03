@@ -1,0 +1,9 @@
+{
+  "name": "wmic-wrapper",
+  "version": "0.0.1",
+  "dependencies": {
+    "co": "^4.6.0",
+    "iconv-lite": "latest",
+    "underscore": "latest"
+  }
+}
